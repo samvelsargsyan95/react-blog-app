@@ -8,7 +8,6 @@ import {
     CardActionArea,
     CardMedia,
     CardContent,
-    Typography
 
 } from '@mui/material/';
 
